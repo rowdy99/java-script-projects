@@ -1,3 +1,4 @@
+alert("Welcome dude 😎");
 function checkloveper()
 {
     var name=document.getElementById('name').value;
@@ -52,6 +53,7 @@ function checkloveper()
   }
 
   
+
   }
   
   
